@@ -28,7 +28,7 @@ The dataset consists of:
 - Segmentation masks for hemorrhage/stroke regions.
 
 ## 🧪 Model Results
-- ✅ Classification Accuracy: ~94%
+- ✅ Classification Accuracy: 97.52%
 - 🧠 U-Net segmentation model for stroke localization (overlayed on CT)
 
 ## ▶️ Run on Colab
